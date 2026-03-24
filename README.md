@@ -1,4 +1,4 @@
-# Jacob Conrad Quendangan
+# Amanda Grace Mangubat
 ### Information Systems Specialist | Aspiring Solutions Architect
 
 ![Deployment Status](https://vercelbadge.vercel.app/api/jacobconradquendangan-portfolio/my-portfolio-six-pi-33?style=for-the-badge)
